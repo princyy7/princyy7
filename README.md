@@ -1,17 +1,15 @@
 ![Princy · AI Development](content/introduction.svg)
 
-> [ Aspiring AI Developer ]
-
 ---
 
 ## 🔭 Currently
 
-| Focus        | Details                                           |
-|:-------------|:--------------------------------------------------|
-| 🛠️ Building  | [ project you're working on right now ]           |
-| 📚 Learning  | [ topic, course or paper you're studying ]        |
-| 🧪 Exploring | [ tool, model or idea you're experimenting with ] |
-| 🎯 Aiming    | [ role or area, e.g. ML engineer, AI developer ]  |
+| Focus        | Details                                        |
+|:----------|:--------------------------------------------------|
+| Building  | AI model based project in Python language         |
+| Learning  | Different mechanisms in ML and Big data           |
+| Exploring | [ tool, model or idea you're experimenting with ] |
+| Aiming    | [ role or area, e.g. ML engineer, AI developer ]  |
 
 ---
 
