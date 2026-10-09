@@ -1,12 +1,6 @@
 ![Princy · AI Development](content/introduction.svg)
 
-# Hi, I'm Princy 👋
-
-**AI Development student · [ one-line focus, e.g. "turning data into useful products" ]**
-
-I'm studying AI development, and I learn best by building. [ 1-2 sentences about what got you into AI and what keeps you curious ]
-
-> [ a personal motto or a line you live by ]
+> [ Aspiring AI Developer ]
 
 ---
 
