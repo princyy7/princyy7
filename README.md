@@ -1,4 +1,4 @@
-![Princy · AI Development](concept/introduction.svg)
+![Princy · AI Development](content/introduction.svg)
 
 # Hi, I'm Princy 👋
 
