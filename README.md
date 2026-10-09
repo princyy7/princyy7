@@ -2,30 +2,30 @@
 
 ---
 
-## 🔭 Currently
+## Currently
 
 | Focus        | Details                                        |
 |:----------|:--------------------------------------------------|
 | Building  | AI model based project in Python language         |
 | Learning  | Different mechanisms in ML and Big data           |
-| Exploring | [ tool, model or idea you're experimenting with ] |
-| Aiming    | [ role or area, e.g. ML engineer, AI developer ]  |
+| Exploring | Computer vision with MediaPipe and OpenCV         |
+| Aiming    | AI developer roles with a computer vision focus   |
 
 ---
 
-## 🚀 Selected Projects
+## Selected Projects
 
 | Project | What it does | Stack |
 |:--------|:-------------|:------|
-| [**Project name**](https://github.com/princyy7/repo-name) | [ one line: the problem it solves ] | [ Python · library · tool ] |
-| [**Project name**](https://github.com/princyy7/repo-name) | [ one line: the problem it solves ] | [ Python · library · tool ] |
-| [**Project name**](https://github.com/princyy7/repo-name) | [ one line: the problem it solves ] | [ Python · library · tool ] |
+| [**Wellness Tracker**](https://github.com/princyy7/wellness-tracker) | tracks users healthy choices and recommends possible improvements |
+| [**Shape Recognition**](https://github.com/princyy7/gesture-shape-recognition) |  |
+| [**Gesture 3D Engine**](https://github.com/princyy7/gesture-3d-engine) |  |
 
-The rest of my work is in my [repositories](https://github.com/princyy7?tab=repositories).
+The rest of my projects are in my [repositories](https://github.com/princyy7?tab=repositories).
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ![Tech stack](https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,github,vscode)
 
@@ -39,28 +39,8 @@ The rest of my work is in my [repositories](https://github.com/princyy7?tab=repo
 
 ---
 
-## 🧭 Learning Roadmap
+## Open To
 
-- [x] [ something you've already learned ]
-- [x] [ something you've already learned ]
-- [ ] [ what you're working on next ]
-- [ ] [ a longer-term goal ]
+Collaborations, internships and entry-level roles in AI development. [  ]
 
----
-
-## 🏅 Certifications & Courses
-
-- [ Course or certification name ] — *completed*
-- [ Course or certification name ] — *in progress*
-
----
-
-## 🤝 Open To
-
-Collaborations, internships and entry-level roles in AI development. [ one line on what kind of project or team you'd enjoy ]
-
-You can reach me through the links on my profile.
-
----
-
-*Learn it. Build it. Ship it.*
+You can reach me through the links on my profile (via LinkedIn).
