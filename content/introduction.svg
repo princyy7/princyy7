@@ -40,7 +40,7 @@
   <text x="70" y="108" class="mono tag" font-size="18" letter-spacing="2">HI, I'M</text>
   <text x="66" y="188" class="sans ink" font-size="92" font-weight="800" letter-spacing="-2">Princy</text>
   <rect x="70" y="208" width="84" height="5" rx="2.5" fill="url(#bar)"/>
-  <text x="70" y="250" class="sans sub" font-size="24">AI Development student · analyzing, building, publishing</text>
+  <text x="70" y="250" class="sans sub" font-size="24">Artificial Intelligence Developer · analyzing, building, publishing</text>
   <text x="70" y="286" class="mono tag" font-size="14" letter-spacing="3">DATA  ·  MODELS  ·  PRODUCTS</text>
 
   <!-- neural network -->
