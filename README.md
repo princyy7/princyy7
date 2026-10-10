@@ -18,7 +18,7 @@
 | Project | What it does |
 |:--------|:-------------|
 | [**Wellness Tracker**](https://github.com/princyy7/wellness-tracker) | tracks users healthy choices and recommends possible improvements |
-| [**Shape Recognition**](https://github.com/princyy7/gesture-shape-recognition) |  |
+| [**Shape Recognition**](https://github.com/princyy7/gesture-shape-recognition) | detects hand movement through a webcam and identifies the shape being shown |
 | [**Gesture 3D Engine**](https://github.com/princyy7/gesture-3d-engine) |  |
 
 ---
