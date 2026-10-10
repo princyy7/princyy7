@@ -25,7 +25,7 @@
 
 ## Tech Stack
 
-![Tech stack](https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,github,vscode)
+![Tech stack](https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,html,css,javascript)
 
 | Area               | Tools                                   |
 |:-------------------|:----------------------------------------|
