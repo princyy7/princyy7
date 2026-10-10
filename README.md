@@ -36,9 +36,3 @@
 | Workflow           | [ Git · VS Code ]                       |
 
 ---
-
-## Open To
-
-Collaborations, internships and entry-level roles in AI development.
-
-You can reach me through the links on my profile (via LinkedIn).
