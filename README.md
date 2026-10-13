@@ -30,7 +30,7 @@
 | Area               | Tools                                   |
 |:-------------------|:----------------------------------------|
 | Languages          | [ Python · SQL ]                        |
-| ML / Deep Learning | [ scikit-learn · PyTorch · TensorFlow ] |
+| ML / Deep Learning | [ PyTorch · TensorFlow ] |
 | Data               | [ pandas · NumPy · Matplotlib ]         |
 | GenAI / LLMs       | [ LangChain · Hugging Face · APIs ]     |
 | Workflow           | [ Git · VS Code ]                       |
